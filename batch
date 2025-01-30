@@ -1,0 +1,14 @@
+@echo off
+
+
+"C:\Users\Jeffries\AppData\Local\Programs\Python\Python39\Scripts\Jupyter\chumba_login.py"
+
+"C:\Users\Jeffries\AppData\Local\Programs\Python\Python39\Scripts\Jupyter\fortune_autologin.py"
+
+"C:\Users\Jeffries\AppData\Local\Programs\Python\Python39\Scripts\Jupyter\globalpoker_autologin.py"
+
+"C:\Users\Jeffries\AppData\Local\Programs\Python\Python39\Scripts\Jupyter\modo_login.py"
+
+"C:\Users\Jeffries\AppData\Local\Programs\Python\Python39\Scripts\Jupyter\highfive_login.py"
+
+pause
